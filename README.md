@@ -5,7 +5,7 @@
 An application that automates and facilitates Tera Term's process of enrolling classes for the University of Puerto Rico at Bayamon with a nice, clean looking user friendly interface!
 
 Download and Try it!
-https://github.com/Hanuwa/Tera-Term-UI/releases/tag/v0.90
+https://github.com/Hanuwa/TeraTermUI/releases/tag/v0.90
 
 *Source Code is planned to be released at some point in the near future
 
