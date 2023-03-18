@@ -7,7 +7,7 @@ An application that automates and facilitates Tera Term's process of enrolling c
 Download and Try it!
 https://github.com/Hanuwa/TeraTermUI/releases/tag/v0.90
 
-*Source Code is planned to be released at some point in the near future
+***Source Code** is planned to be released at some point in the near future
 
 ![application](https://user-images.githubusercontent.com/109267068/215253490-a3da69d5-ac3e-42c1-aa2f-695ea7e7b567.png)
    
