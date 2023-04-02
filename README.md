@@ -9,16 +9,23 @@ https://github.com/Hanuwa/TeraTermUI/releases/tag/v0.90
 
 ***Source Code** is planned to be released at some point in the near future
 
-![application](https://user-images.githubusercontent.com/109267068/215253490-a3da69d5-ac3e-42c1-aa2f-695ea7e7b567.png)
-   
-# Enrolling/Dropping and Searching for classes made easy!
+![menu](https://user-images.githubusercontent.com/109267068/229377605-6b2f64c1-a1f0-489f-a450-db2be2c3e6c8.png)
 
-![application2](https://user-images.githubusercontent.com/109267068/215253644-e2763d1f-9606-4b40-a5be-f09fb30daecb.png)
-![application3](https://user-images.githubusercontent.com/109267068/215253654-f7f9a66e-301a-4bc0-8fa4-0dd45248847a.png)
-   
+# Enrolling and Searching for classes made easy!
+
+![enroll](https://user-images.githubusercontent.com/109267068/229377621-d1e66f14-23c4-4a10-9d47-925f8fcf826f.png)
+![search](https://user-images.githubusercontent.com/109267068/229377626-64173d79-99e9-4ffa-9a77-c3a114d12ff5.png)
+
+# Enroll up to 6 classes at once!
+
+![multiple](https://user-images.githubusercontent.com/109267068/229377682-76ee0f2b-91b8-4186-9d8a-b2cdef93ddcf.png)
+
 # Demo Video!
 
-https://user-images.githubusercontent.com/109267068/220241385-0ed3bf6f-4a8b-4d11-b827-a39c4aba3bec.mov
+https://user-images.githubusercontent.com/109267068/229382358-dd0567ea-3253-4129-b841-a8691430ea3d.mov
+
+
+
 
 
 
