@@ -9,6 +9,8 @@ https://github.com/Hanuwa/TeraTermUI/releases/tag/v0.9.0
 
 ***Source Code** is planned to be released at some point in the near future
 
+**Email** armando.delvalle1@upr.edu
+
 ![menu](https://user-images.githubusercontent.com/109267068/229377605-6b2f64c1-a1f0-489f-a450-db2be2c3e6c8.png)
 
 # Enrolling and Searching for classes made easy!
