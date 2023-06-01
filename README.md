@@ -20,7 +20,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 # Enroll up to 6 classes at once!
 
-![multiple](https://github.com/Hanuwa/TeraTermUI/assets/109267068/75330946-cddd-4cf6-9b39-be7f7c91d2c9)
+![multiple](https://github.com/Hanuwa/TeraTermUI/assets/109267068/bb188458-f707-4040-9c89-07548504cd5b)
 
 # Demo Video!
 
