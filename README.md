@@ -11,7 +11,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 **Email**: armando.delvalle1@upr.edu
 
-![home](https://github.com/Hanuwa/TeraTermUI/assets/109267068/abe2ccf9-971f-483a-a53e-2cd5832a778f)
+![home](https://github.com/Hanuwa/TeraTermUI/assets/109267068/dd2aa525-b3de-426b-b95f-909d1ae485d4)
 
 # Enrolling and Searching for classes made easy!
 
