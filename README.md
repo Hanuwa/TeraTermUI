@@ -22,6 +22,10 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 ![multiple](https://github.com/Hanuwa/TeraTermUI/assets/109267068/46d603ed-8f90-453c-bd1c-b272585daf76)
 
+# Modify the classes you are currently enrolled in!
+
+![modify](https://github.com/Hanuwa/TeraTermUI/assets/109267068/90d246f3-28b4-4e3f-9ef8-6b59b13e1bd2)
+
 # Demo Video!
 
 coming soon!
