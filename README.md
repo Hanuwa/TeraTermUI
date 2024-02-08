@@ -9,7 +9,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 ***Source Code** is planned to be released at some point in the near future
 
-**Email**: armando.delvalle1@upr.edu
+**Contact**: armando.delvalle1@upr.edu
 
 ![home](https://github.com/Hanuwa/TeraTermUI/assets/109267068/c908a96b-bf50-44f6-9e7f-bf704a3bc31f)
 
