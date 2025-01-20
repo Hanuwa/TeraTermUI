@@ -7,7 +7,7 @@ An application designed to automate and streamline the class enrollment process 
 Download and Try it!
 https://github.com/Hanuwa/TeraTermUI/releases/latest
 
-[![download](https://github.com/user-attachments/assets/5e071bd4-56e0-4168-abf9-c9c9414f1344)](https://github.com/Hanuwa/TeraTermUI/releases/latest)
+[![download](https://github.com/user-attachments/assets/564ae698-d0db-475a-be6b-dd179b2c2767)](https://github.com/Hanuwa/TeraTermUI/releases/latest)
 
 ***Source Code** is planned to be released at some point in the near future
 
