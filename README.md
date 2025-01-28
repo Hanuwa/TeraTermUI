@@ -18,7 +18,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 # Enrolling and Searching for classes made easy!
 
 ![enroll](https://github.com/user-attachments/assets/72e45ca4-28b5-4f6a-af84-8d9de5153dc8)
-![search](https://github.com/user-attachments/assets/395e1182-cf03-499e-b8d5-565bcca9062a)
+![search](https://github.com/user-attachments/assets/178d819b-1cfd-4b92-ae18-d17cfede4c40)
 
 # Enroll up to 8 classes at once!
 
@@ -26,7 +26,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 # Modify the classes you are currently enrolled in!
 
-![modify](https://github.com/Hanuwa/TeraTermUI/assets/109267068/2ad52ae5-fbdf-4727-adfc-f8835117bc96)
+![modify](https://github.com/user-attachments/assets/91a1ae9b-7a0c-4db7-9de3-15951aa3408d)
 
 # Demo Video!
 
