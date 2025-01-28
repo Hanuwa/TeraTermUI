@@ -30,4 +30,6 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 # Demo Video!
 
+![hourglass](https://github.com/user-attachments/assets/267c1708-e7a4-427d-aabb-7e3a725cd33f)
+
 coming soon!
