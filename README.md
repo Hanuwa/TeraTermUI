@@ -22,7 +22,7 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 # Enroll up to 8 classes at once!
 
-![multiple](https://github.com/user-attachments/assets/9e21623d-6ed4-480b-8ea2-956a9260aa7a)
+![multiple](https://github.com/user-attachments/assets/4f17bbc0-19eb-4530-9f52-36ae1b4cb94d)
 
 # Modify the classes you are currently enrolled in!
 
