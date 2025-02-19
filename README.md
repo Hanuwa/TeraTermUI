@@ -13,20 +13,20 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 **Contact**: armando.delvalle1@upr.edu
 
-![home](https://github.com/Hanuwa/TeraTermUI/assets/109267068/c908a96b-bf50-44f6-9e7f-bf704a3bc31f)
+![home](https://github.com/user-attachments/assets/b5639f1c-04ee-4745-ad87-44ec15534970)
 
 # Enrolling and Searching for classes made easy!
 
-![enroll](https://github.com/user-attachments/assets/72e45ca4-28b5-4f6a-af84-8d9de5153dc8)
-![search](https://github.com/user-attachments/assets/178d819b-1cfd-4b92-ae18-d17cfede4c40)
+![enroll](https://github.com/user-attachments/assets/f603688f-9390-4895-844b-83930c46465d)
+![search](https://github.com/user-attachments/assets/3d6b13b5-ecae-4e6a-b6c6-8f4191d0e8f9)
 
 # Enroll up to 8 classes at once!
 
-![multiple](https://github.com/user-attachments/assets/4f17bbc0-19eb-4530-9f52-36ae1b4cb94d)
+![multiple](https://github.com/user-attachments/assets/5d030c70-38f7-42c4-91ec-f7c2339e9719)
 
 # Modify the classes you are currently enrolled in!
 
-![modify](https://github.com/user-attachments/assets/dfbdb94b-e969-4524-b9d0-4edf339f315e)
+![modify](https://github.com/user-attachments/assets/000d2775-537e-4083-9595-bf54336f5bf1)
 
 # Demo Video!
 
