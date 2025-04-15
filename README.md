@@ -11,6 +11,8 @@ https://github.com/Hanuwa/TeraTermUI/releases/latest
 
 ***Source Code** is planned to be released at some point in the near future
 
+**Important**: Read Disclaimer before downloading -> [View Disclaimer](DISCLAIMER.md)
+
 **Contact**: armando.delvalle1@upr.edu
 
 ![home](https://github.com/user-attachments/assets/b5639f1c-04ee-4745-ad87-44ec15534970)
