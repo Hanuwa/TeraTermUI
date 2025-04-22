@@ -15,6 +15,8 @@ An application designed to automate and streamline the class enrollment process 
 
 > ⚠️ **Important**: Please read the [Disclaimer](DISCLAIMER.md) before downloading.
 
+![home](https://github.com/user-attachments/assets/2f7c71cb-ac14-4490-9a9b-fd2d518e5566)
+
 ---
 
 ## 💡 Features
@@ -38,9 +40,10 @@ An application designed to automate and streamline the class enrollment process 
 
 ---
 
-## 📹 Demo Video – Coming Soon!
+## 📹 Demo Video!
+🎥 [Youtube Video Link (Español)](https://youtu.be/gp6RKnN5tEA)
 
-![Hourglass](https://github.com/user-attachments/assets/267c1708-e7a4-427d-aabb-7e3a725cd33f)
+![youtube](https://github.com/user-attachments/assets/7410bccb-8627-4222-b0dd-f1fbb1934dac)
 
 ---
 
