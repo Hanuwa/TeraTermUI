@@ -41,7 +41,7 @@ An application designed to automate and streamline the class enrollment process 
 ---
 
 ## 📹 Demo Video!
-🎥 [Youtube Video Link (Español)](https://youtu.be/gp6RKnN5tEA)
+🎥 [Youtube Video Link (Español)](https://www.youtube.com/watch?v=Kfrip4OCZr4)
 
 ![youtube](https://github.com/user-attachments/assets/7410bccb-8627-4222-b0dd-f1fbb1934dac)
 
