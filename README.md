@@ -30,7 +30,7 @@ An application designed to automate and streamline the class enrollment process 
 
 ### 📚 Enroll Up to 8 Classes at Once
 
-![Multiple Classes](https://github.com/user-attachments/assets/48512a40-430b-48e8-8203-e0bfb507463b)
+![Multiple Classes](https://github.com/user-attachments/assets/6e99bc38-d2b3-4c25-926f-744b8f706ce1)
 
 ---
 
