@@ -51,6 +51,15 @@
 
 ---
 
+### **Version v0.9.5** — *Released: 04/28/2025*  
+
+#### Hotfixes:
+- Resolved an issue where the Auto-Enroll and Save Classes widgets were incorrectly disabled while the countdown window was active.
+- Improved class transfer behavior: If a transferred class already exists but its row is hidden, the row will now be revealed and updated automatically,
+  ensuring seamless replacement without user intervention
+  
+---
+
 ## 🔄 Updating
 
 - The app includes an automatic updater that will notify you when a new version is available.
