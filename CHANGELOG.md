@@ -21,6 +21,9 @@
   - Fixed minor inconsistencies in the code
   - Updated some dependencies
 
+- **v0.91.2** — *Released: 04/29/2025*
+  - Improved performance of search queries of course titles in "Help" window
+
 ---
 
 ### **Version v0.9.0** — *Released: 04/26/2025*  
