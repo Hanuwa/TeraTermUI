@@ -4,7 +4,7 @@
 
 ---
 
-### **Version v0.91.0** — *Released: 04/28/2025*  
+### **Version v0.91.0** — *Released: 04/29/2025*  
 
 #### New Features & Improvements:
 - Introduced new feature: **Swap Rows** — Quickly swap the content between two adjacent rows in the Multiple Classes Enrollment screen. Clicking the ⇅ Swap button exchanges class code, section, semester, and enrollment action between rows.
