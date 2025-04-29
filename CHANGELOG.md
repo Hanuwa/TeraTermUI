@@ -13,8 +13,13 @@
 - Enrollment system now recognizes a new class status: **"RECOMMENDED"**.
 - Added detection and handling of a new enrollment error message: **"PRESENTLY ENROLLED"**.
 - Fixed an issue that prevented remembering credentials, when you had data previously saved.
-- Improved Anti-Idle functionality, to make it more reliable
 - Updated dependencies, including improvements to the executable (.exe) conversion tools for both the main app and the updater for enhanced stability.
+
+#### Hotfixes:
+- **v0.91.1** — *Released: 04/29/2025*
+  - Improved Anti-Idle functionality, to make it more reliable
+  - Fixed minor inconsistencies in the code
+  - Updated some dependencies
 
 ---
 
