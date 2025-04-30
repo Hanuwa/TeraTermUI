@@ -27,6 +27,10 @@
 - **v0.91.3** — *Released: 04/29/2025*
   - Improved feedback message sanitization
 
+- **v0.91.4** — *Released: 04/30/2025*
+  - Updater now handles the installation of the installer automatically
+  - Updated dependencies
+
 ---
 
 ### **Version v0.9.0** — *Released: 04/26/2025*  
