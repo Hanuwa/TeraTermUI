@@ -24,6 +24,9 @@
 - **v0.91.2** — *Released: 04/29/2025*
   - Improved performance of search queries of course titles in "Help" window
 
+- **v0.91.3** — *Released: 04/29/2025*
+  - Improved feedback message sanitization
+
 ---
 
 ### **Version v0.9.0** — *Released: 04/26/2025*  
