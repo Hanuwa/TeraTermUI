@@ -33,6 +33,7 @@
 
 - **v0.91.5** — *Released: 04/30/2025*
   - When multiple courses share the same code and semester, they are now enumarated (Ex. ESPA3101 #1 or ESPA3101 #2 - C51)
+  - Cleanup up some logic inside the updater
   - Updated dependencies
 
 ---
