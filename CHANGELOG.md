@@ -31,7 +31,7 @@
   - Updater now handles the installation of the installer automatically
   - Updated dependencies
 
-- **v0.91.5** — *Released: 05/01/2025*
+- **v0.91.5** — *Released: 05/02/2025*
   - When multiple courses share the same code and semester, they are now enumarated (Ex. ESPA3101 #1 or ESPA3101 #2 - C51)
   - Optimized the class conflicts functionality
   - Cleanup up some logic inside the updater
