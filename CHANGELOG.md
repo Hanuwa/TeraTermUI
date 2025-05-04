@@ -31,7 +31,7 @@
   - Updater now handles the installation of the installer automatically
   - Updated dependencies
 
-- **v0.91.5** — *Released: 05/03/2025*
+- **v0.91.5** — *Released: 05/04/2025*
   - When multiple courses share the same code and semester, they are now enumarated (Ex. ESPA3101 #1 or ESPA3101 #2 - C51)
   - Now before we start to execute any command on the terminal we first send "Ctrl+Q" to resume the shell if it was paused
   - Optimized the class conflicts functionality
