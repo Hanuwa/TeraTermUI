@@ -4,12 +4,13 @@
 
 ---
 
-### **Version v0.92.0** — *Released: 05/09/2025*  
+### **Version v0.92.0** — *Released: 05/10/2025*  
 
 #### New Features & Improvements:
 - Introduced new feature, Added support for scheduled login: If personal credentials are saved, During Auto-Enroll event, Tera Term will now close temporarily to reduce server load and automatically re-open 15–30 minutes before the enrollment window to log in.    
 - Improved the way personal user credentials are securely stored and retrieved
 - Further refined the search accuracy for course titles in the "Help" window
+- Adjusted the grid/layout of widgets of the "Multiple Classes" screen
 - Other miscellaneous fixes
 - Updated dependencies
 
