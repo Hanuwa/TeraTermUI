@@ -55,4 +55,4 @@ Got questions, feedback, or suggestions?
 
 ---
 
-📌 **Source Code:** Planned to be released soon — stay tuned!
+📌 **Source Code:** take a look at the code and consider contributing! https://github.com/Hanuwa/TeraTermUI_Dev
