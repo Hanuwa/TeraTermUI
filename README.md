@@ -55,4 +55,10 @@ Got questions, feedback, or suggestions?
 
 ---
 
-📌 **Source Code:** take a look at the code and consider contributing! https://github.com/Hanuwa/TeraTermUI_Dev
+## 📌 Check out the code!
+
+Curious about how it works or want to contribute?  
+Take a look at the project on GitHub and feel free to jump in!  
+
+🔗 [TeraTermUI_Dev on GitHub](https://github.com/Hanuwa/TeraTermUI_Dev)
+
