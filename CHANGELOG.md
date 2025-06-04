@@ -8,7 +8,8 @@
 
 #### New Features & Improvements:
 - Introduced new feature, Added support for scheduled login: If personal credentials are saved, During Auto-Enroll event, Tera Term will now close temporarily to reduce server load and automatically re-open 15–30 minutes before the enrollment window to log in
-- Enhanced server load monitor with persistent CSV logging     
+- Enhanced server load monitor with persistent CSV logging
+- Updated Python version to "3.13"
 - Improved the way personal user credentials are securely stored and retrieved
 - Further refined the search accuracy for course titles in the "Help" window
 - Adjusted the grid/layout of widgets of the "Multiple Classes" screen
