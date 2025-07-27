@@ -34,6 +34,21 @@ You can:
 - Zip it if needed for privacy  
 - Mention if it was missing or empty
 
+Let us know as much as possible — it helps us fix the issue faster 🚀
+
 ---
 
-Let us know as much as possible — it helps us fix the issue faster 🚀
+## 💡 Requesting Features or Improvements
+
+If you’d like to request a new feature or suggest an improvement:
+
+- Please **start a new discussion** in the [Discussions](https://github.com/YourRepo/YourProject/discussions) tab  
+- Use the **“Ideas”** or **“Feature Request”** category  
+- Clearly describe what you’re proposing, why it’s helpful, and any relevant examples or mockups
+
+> 📣 **Why Discussions?**  
+> It helps us keep things organized, encourage feedback, and avoid duplicates before formally tracking the request.
+
+Let us know what would make the app even better ✨
+
+
