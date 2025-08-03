@@ -13,10 +13,11 @@
 - Updated Python version to "3.13"
 - Improved the way personal user credentials are securely stored and retrieved
 - Further refined the search accuracy for course titles in the "Help" window
+- Made the updater faster and work more reliably
 - Adjusted the grid/layout of widgets of the "Multiple Classes" screen
 - Resolved an issue where re-searching a class created a duplicate table instead of updating the existing one
 - Refined entry sanitation to prevent malformed or inconsistent inputs
-- Other miscellaneous fixes
+- Other miscellaneous fixes and improvements
 - Updated dependencies
 
 ---
