@@ -11,6 +11,7 @@
 - Enhanced server load monitor with persistent CSV logging
 - When a new user logs into the system, all fields are automatically reset to their default state
 - Updated Python version to "3.13"
+- Upgraded the installer’s bundled Tera Term to version 5
 - Improved the way personal user credentials are securely stored and retrieved
 - Further refined the search accuracy for course titles in the "Help" window
 - Made the updater faster and work more reliably
