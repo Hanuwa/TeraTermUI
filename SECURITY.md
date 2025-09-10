@@ -32,7 +32,7 @@ The system also handles automatic key rotation, atomic file updates, and secure 
 
 ---
 
-## ⚠️ Limitations (Important)
+## ⚠️ Limitations
 Even with protections, risks remain:  
 - If **malware runs as you**, it can:  
   - Access DPAPI and Credential Manager.  
@@ -49,3 +49,45 @@ Even with protections, risks remain:
 - Turn on **BitLocker or full-disk encryption**.  
 - **Lock your session** when away.  
 - Avoid **copying credentials to the clipboard**.  
+
+---
+
+# 🗑️ Removing Your Saved Credentials
+
+This script is especially useful for **portable users of the app**.  Because the portable version does not come with an uninstaller,  
+saved credentials remain in **Windows Credential Manager** even if you simply delete the app folder.  
+If you plan on **getting rid of the app completely**, you should run this script first to clean up any saved secrets.
+
+👉 You can also delete your saved data without using PowerShell —>  
+just click the **“Delete Data”** button inside the **Help** window of the app.
+
+---
+
+## ▶️ How to Use
+
+1. Locate the script file: `RemoveCredentials.ps1` (distributed alongside the app).  
+2. Right‑click → *Run with PowerShell* (or run from a PowerShell terminal).  
+3. The script will:
+   - Scan Credential Manager for your app’s saved entries.  
+   - Show a preview of what it found.  
+   - Ask whether to **delete all** or **pick specific items**.  
+   - Require typing `DELETE` as final confirmation (unless you run with `-Force`).  
+
+---
+
+## ⚡ Advanced Usage
+
+Run from a PowerShell prompt in the same folder as the script:
+
+- **Delete All silently** (no output, no prompts, exits with code only)  
+  ```powershell
+  .\RemoveCredentials.ps1 -Silent
+
+## 📝 Notes
+
+- This script only deletes credentials saved **by this app,** not your other logins.
+- Run it as the **same Windows user** who saved the student number and PIN.
+- Once deleted, credentials **cannot be recovered.**
+- **Installed (non‑portable) users** don’t have to run the script themselves,
+  the built‑in uninstaller will call it automatically.
+
