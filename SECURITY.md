@@ -58,8 +58,11 @@ This script is especially useful for **portable users of the app**.  Because the
 saved credentials remain in **Windows Credential Manager** even if you simply delete the app folder.  
 If you plan on **getting rid of the app completely**, you should run this script first to clean up any saved secrets.
 
-👉 You can also delete your saved data without using PowerShell —>  
+👉 You can also delete your saved data without using the script —>  
 just click the **“Delete Data”** button inside the **Help** window of the app.
+
+💡 Even if you’ve already deleted the app folder, you can still download the cleanup script directly from 
+[here](https://github.com/Hanuwa/TeraTermUI_Dev/raw/main/RemoveCredentials.ps1) and run it
 
 ---
 
