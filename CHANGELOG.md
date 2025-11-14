@@ -7,12 +7,14 @@
 ### **Version v0.92.0** — *Released: 11/14/2025*  
 
 #### New Features & Improvements:
+- Updated Python version to "3.13"
 - Introduced new feature, Added support for scheduled login: If personal credentials are saved, During Auto-Enroll event, Tera Term will now close temporarily to reduce server load and automatically re-open 15–30 minutes before the enrollment window to log in
 - Enhanced server load monitor with persistent CSV logging and accuracy improvements
 - When a new user logs into the system, all fields are automatically reset to their default state
-- Updated Python version to "3.13"
-- Reworked how feedback submissions are made
+- Reworked the feedback submission process - requests are now sent to a server instead of being processed on the client side
+- Added a new function in the "Option Menu" tab called "Student Status" - it will display important information for the user shown by the university's server (SIS)
 - Improved the way personal user credentials are securely stored and retrieved
+- Adjusted the layout of both the "Help" and "Status" pages, and added new functions to each
 - Further refined the search accuracy for course titles in the "Help" window
 - Made the updater faster and work more reliably
 - Adjusted the grid/layout of widgets of the "Multiple Classes" screen
