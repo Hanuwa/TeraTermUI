@@ -59,5 +59,5 @@ Got questions, feedback, or suggestions?
 Curious about how it works or want to contribute?  
 Take a look at the project on GitHub and feel free to jump in!  
 
-🔗 [Dev](https://github.com/Hanuwa/TeraTermUI_Dev)
+🔗 [Dev Github Repository](https://github.com/Hanuwa/TeraTermUI_Dev)
 
