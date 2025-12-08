@@ -1,6 +1,6 @@
 # 🎓 Tera Term UI
 
-![Tera Term Logo](https://github.com/Hanuwa/TeraTermUI/assets/109267068/75fa1c89-80e7-40a8-b393-0a0931f3a111)
+![Logo](https://github.com/Hanuwa/TeraTermUI/assets/109267068/75fa1c89-80e7-40a8-b393-0a0931f3a111)
 
 An application designed to automate and streamline the class enrollment process for students at the **University of Puerto Rico at Bayamón**, featuring an intuitive and user-friendly interface built around Tera Term automation.
 
@@ -14,7 +14,7 @@ An application designed to automate and streamline the class enrollment process 
 
 > ⚠️ **Important**: Please read the [Disclaimer](DISCLAIMER.md) before downloading.
 
-![home](https://github.com/user-attachments/assets/2f7c71cb-ac14-4490-9a9b-fd2d518e5566)
+![Home](https://github.com/user-attachments/assets/890795b2-e75d-4193-8d3f-885fb84f9628)
 
 ---
 
@@ -22,27 +22,27 @@ An application designed to automate and streamline the class enrollment process 
 
 ### 🔍 Enroll and Search with Ease
 
-![Enroll UI](https://github.com/user-attachments/assets/f603688f-9390-4895-844b-83930c46465d)  
-![Search UI](https://github.com/user-attachments/assets/3d6b13b5-ecae-4e6a-b6c6-8f4191d0e8f9)
+![Enroll](https://github.com/user-attachments/assets/05a1bd82-89a1-46c8-8cc7-69fd99494935)  
+![Search](https://github.com/user-attachments/assets/a6cb3442-6296-46df-9a8a-596280c013a6)
 
 ---
 
 ### 📚 Enroll Up to 8 Classes at Once
 
-![Multiple Classes](https://github.com/user-attachments/assets/1870567b-d161-4f5d-a535-60aa9411b627)
+![Multiple](https://github.com/user-attachments/assets/1f86a647-40f7-4492-b523-4d3253a13b8f)
 
 ---
 
 ### 🛠️ Modify Your Existing Enrollments
 
-![Modify Classes](https://github.com/user-attachments/assets/000d2775-537e-4083-9595-bf54336f5bf1)
+![Modify](https://github.com/user-attachments/assets/828e35af-7876-4451-ae88-ba7cdc1f7a83)
 
 ---
 
 ## 📹 Demo Video!
 🎥 [Youtube Video Link (Español)](https://www.youtube.com/watch?v=Kfrip4OCZr4)
 
-![youtube](https://github.com/user-attachments/assets/7410bccb-8627-4222-b0dd-f1fbb1934dac)
+![Youtube](https://github.com/user-attachments/assets/7410bccb-8627-4222-b0dd-f1fbb1934dac)
 
 ---
 
@@ -50,7 +50,7 @@ An application designed to automate and streamline the class enrollment process 
 
 Got questions, feedback, or suggestions?
 
-📧 **Email:** armando.delvalle1@upr.edu
+📧 **Email:** Hanuwa@proton.me
 
 ---
 
@@ -59,5 +59,5 @@ Got questions, feedback, or suggestions?
 Curious about how it works or want to contribute?  
 Take a look at the project on GitHub and feel free to jump in!  
 
-🔗 [TeraTermUI_Dev on GitHub](https://github.com/Hanuwa/TeraTermUI_Dev)
+🔗 [Dev](https://github.com/Hanuwa/TeraTermUI_Dev)
 
