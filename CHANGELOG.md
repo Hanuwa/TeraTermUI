@@ -10,7 +10,10 @@
 - Updated Python version to "3.13"
 - Introduced new feature, added support for scheduled login: if personal credentials are saved, during Auto-Enroll event, Tera Term will now close temporarily to reduce server load and automatically re-open 15–30 minutes before the enrollment window to log in
 - Introduced Enrollment History: generate a localized PDF of all enroll/drop/section-swap actions with timestamps and a final status summary.
-- Enhanced "Row Action" buttons: the "Swap Rows" feature now supports dual functionality. Each row's ⇅ button can toggle between Swap and Clear modes with a right-click. The clear function resets all fields in the selected row to their default state. Tooltips have also beed added for additional clarity
+ - Enhanced "Row Action" buttons: the "Swap Rows" feature now supports dual functionality. Each row's ⇅ button can be toggled 
+   between Swap and Clear modes via a right-click. Swap now exchanges the selected row with the adjacent row (below by default;
+   hold "Shift" key to swap with the row above). Clear resets all fields in the selected row to their default state. Tooltips
+   have been added for additional clarity
 - Enhanced server load monitor with persistent CSV logging and accuracy improvements
 - When a new user logs into the system, all fields are automatically reset to their default state
 - Reworked the feedback submission process - requests are now sent to a server instead of being processed on the client side
