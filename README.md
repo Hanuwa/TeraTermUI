@@ -14,7 +14,7 @@ An application designed to automate and streamline the class enrollment process 
 
 > ⚠️ **Important**: Please read the [Disclaimer](DISCLAIMER.md) before downloading.
 
-![Home](https://github.com/user-attachments/assets/890795b2-e75d-4193-8d3f-885fb84f9628)
+![Home](https://github.com/user-attachments/assets/0c9fecde-3587-4b8d-96ef-91b0edd8e9e2)
 
 ---
 
