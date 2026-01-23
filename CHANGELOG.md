@@ -112,6 +112,11 @@
 - Submit feedback or bug reports directly through the "Status" window inside the app.
 - Or report issues through the [GitHub Issues Page](https://github.com/Hanuwa/TeraTermUI/issues).
 
+It is recommended to use Tera Term version 4 (for example, v4.108) rather than the newer version 5.
+The latest release may disconnect and close unexpectedly during long sessions. This issue appears 
+to occur because Tera Term 5 introduces modern SSH protocol features that are not fully compatible 
+with the legacy SSH server used by the university. Version 4 remains more stable for connecting to that environment.
+
 ---
 
 > **Note:** This application is still early in development. Some bugs are expected, and your feedback is crucial for improvements.
