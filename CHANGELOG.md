@@ -4,7 +4,7 @@
 
 ---
 
-### **Version v0.92.0** — *Released: 01/21/2026*  
+### **Version v0.92.0** — *Released: 01/22/2026*  
 
 #### New Features & Improvements:
 - Updated Python version to "3.13"
@@ -18,6 +18,7 @@
 - Improved the way personal user credentials are securely stored and retrieved
 - Adjusted the layout of both the "Help" and "Status" pages, and added new functions to each
 - Further refined the search accuracy for course titles in the "Help" window
+- Optimized the table sorting functionality in the "Search Classes" tab
 - Made the updater faster and work more reliably
 - Adjusted the grid/layout of widgets of the "Multiple Classes" screen
 - Resolved an issue where re-searching a class created a duplicate table instead of updating the existing one
