@@ -4,7 +4,7 @@
 
 ---
 
-### **Version v0.92.0** — *Released: 01/22/2026*  
+### **Version v0.92.0** — *Released: 01/23/2026*  
 
 #### New Features & Improvements:
 - Updated Python version to "3.13"
@@ -112,6 +112,9 @@
 - Submit feedback or bug reports directly through the "Status" window inside the app.
 - Or report issues through the [GitHub Issues Page](https://github.com/Hanuwa/TeraTermUI/issues).
 
+---
+
+## Tera Term version 5
 It is recommended to use Tera Term version 4 (for example, v4.108) rather than the newer version 5.
 The latest release may disconnect and close unexpectedly during long sessions. This issue appears 
 to occur because Tera Term 5 introduces modern SSH protocol features that are not fully compatible 
