@@ -4,7 +4,7 @@
 
 ---
 
-### **Version v0.92.0** — *Released: 02/20/2026*  
+### **Version v0.92.0** — *Released: 02/21/2026*  
 
 #### New Features & Improvements:
 - Updated Python version to "3.13"
@@ -12,6 +12,7 @@
 - Introduced Enrollment History: generate a localized PDF of all enroll/drop/section-swap actions with timestamps and a final status summary
 - Enhanced Row Action (⇅) button: the original "Swap Rows" action is still available, but the button now supports a second mode: "Clear Row". Clear is now the default behaviour and resets all fields in the selected row to their default state. Right-click the button to toggle between "Clear" and "Swap". In Swap, it works a bit different now, the button swaps the current row with the row below and if you want it to swap with the row above, you left-click while holding down "Shift" key. Tooltips were also added for clarity
 - Enhanced server load monitor with persistent CSV logging and accuracy improvements
+- Implemented a way for users to be able to modify their enrollements for classes that have a co-requisite (lab class)
 - When a new user logs into the system, all fields are automatically reset to their default state
 - Reworked the feedback submission process - requests are now sent to a server instead of being processed on the client side
 - Added a new function in the "Option Menu" tab called "Student Status" - it will display important information for the user shown by the university's server (SIS)
