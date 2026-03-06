@@ -4,7 +4,7 @@
 
 ---
 
-### **Version v0.92.0** — *Released: 03/03/2026*  
+### **Version v0.92.0** — *Released: 03/06/2026*  
 
 #### New Features & Improvements:
 - Updated Python version to "3.13"
