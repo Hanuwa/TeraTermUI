@@ -3,7 +3,7 @@
 
 The `LocalDataStore` system protects sensitive credentials, such as student numbers and PINs, when you **choose to save them locally** on a Windows device. Saving is completely optional , you can always enter your details manually instead. 
 When used, the system applies AES-GCM-256 encryption for confidentiality and integrity, while the encryption keys themselves are protected through a layered approach: a random master key is bound to your user and device using Windows DPAPI, 
-and each key also has a unique passphrase stored securely in Windows Credential Manager. To prevent tampering, the key file (`masterkey.json`) is signed with HMAC-SHA256, and its access is restricted so only the current Windows user can read it. 
+and each key also has a unique passphrase stored securely in Windows Credential Manager. To prevent tampering, the key file (`keyset.json`) is signed with HMAC-SHA256, and its access is restricted so only the current Windows user can read it. 
 The system also handles automatic key rotation, and secure retirement of old keys. Together, these measures ensure that even if the key file is copied or exposed, it cannot be decrypted or modified without access to both your Windows account and Credential Manager.
 
 ## ✅ Features
@@ -11,7 +11,7 @@ The system also handles automatic key rotation, and secure retirement of old key
 - **Key derivation with HKDF-SHA256**, using:  
   - A **random master key** protected by **Windows DPAPI** (tied to your user + device).  
   - A **per-key random passphrase** stored in **Windows Credential Manager**.  
-- **Tamper detection** – `masterkey.json` is signed with **HMAC-SHA256**.  
+- **Tamper detection** – `keyset.json` is signed with **HMAC-SHA256**.  
 - **File protection** – restricted to your Windows user (**ACL**) and hidden.  
 - **Key auto-rotation** – every 90 days by default; old keys are kept temporarily for decryption, then retired.  
 
@@ -19,7 +19,7 @@ The system also handles automatic key rotation, and secure retirement of old key
 
 ## 📂 Stored Data
 - Your **student number and PIN (encrypted only)** – never plaintext on disk.  
-- `masterkey.json` – contains encrypted keys, safe metadata, and HMAC.  
+- `keyset.json` – contains encrypted keys, safe metadata, and HMAC.  
 - **Per-key passphrases** – stored in **Windows Credential Manager** (scoped to your account).  
 
 ---
